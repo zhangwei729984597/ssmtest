@@ -6,7 +6,7 @@
   </head>  
     
   <body>  
-    ${user.userName}  
+    ${user.userName} <br> 
     ${user.age} 
   </body>  
 </html>  
